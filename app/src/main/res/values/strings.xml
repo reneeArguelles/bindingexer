@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">arguelles_exer4_SlamBook</string>
+    <string name="greeting">Hello!</string>
+    <string name="name_label_text">Name</string>
+    <string name="nickname_label_text">Nickname</string>
+    <string name="age_label_text">Age</string>
+    <string name="birthday_label_text">When is your birthday?</string>
+    <string name="phone_label_text">Phone number</string>
+    <string name="course_label_text">What is your course?</string>
+    <string name="color_label_text">What is your favorite color?</string>
+    <string name="dream_label_text">What is your ultimate dream?</string>
+    <string name="crush_label_text">Who is your secret crush?</string>
+    <string name="message_label_text">What is your message for me?</string>
+    <string name="done_button_label">Done</string>
+    <string name="name_hint">Enter Name</string>
+    <string name="nickname_hint">Enter Nickname</string>
+    <string name="age_hint">Enter Age</string>
+    <string name="bday_hint">Enter Birthday</string>
+    <string name="phone_hint">Enter Phone Number</string>
+    <string name="course_hint">Enter Course</string>
+    <string name="color_hint">Enter Favorite Color</string>
+    <string name="dream_hint">Enter Dream</string>
+    <string name="crush_hint">Enter Name of Crush</string>
+</resources>
